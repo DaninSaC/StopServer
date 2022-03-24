@@ -1,0 +1,7 @@
+main: com.danin.main.Main
+name: StopServer
+version: 1.0
+api-version: 1.18
+commands:
+  setserverstop:
+    description: Set the time after which the server gets shutdown, if nobody is online
